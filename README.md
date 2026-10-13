@@ -1,32 +1,21 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="nightweixd — Web applications, computer vision, and practical tools" width="100%" />
+<p>
+  <img src="./assets/banner.svg" alt="JW — Web development and computer vision" width="100%" />
 </p>
 
-<p align="center">
-  <a href="#selected-projects">Selected projects</a> &nbsp;·&nbsp;
-  <a href="#tools-in-my-projects">Technical toolkit</a> &nbsp;·&nbsp;
-  <a href="https://github.com/nightweixd?tab=repositories">Explore my repositories</a>
-</p>
+## Hi, I'm JW
 
-### Hello, I'm nightweixd
+I work on web apps and computer vision projects. I use React and TypeScript for the web, and Python for camera-based detection.
 
-I build web applications and explore computer vision with Python. My projects span customer and pet management, camera-based detection, and tools that connect interfaces with data.
+### Projects
 
-### Selected projects
+**[PetMan](https://github.com/nightweixd/petman)**  
+A web app for keeping track of customers and their pets. It includes editable pet profiles and a layout that works on mobile and desktop.  
+<sub>Next.js · TypeScript · Tailwind CSS · Supabase</sub>
 
-| Project | What it does | Technologies |
-| :--- | :--- | :--- |
-| **[PetMan](https://github.com/nightweixd/petman)** | A pet management application with customer listings, editable pet profiles, and a responsive interface. | Next.js · React · TypeScript · PostgreSQL · Tailwind CSS |
-| **[Computer vision experiments](https://github.com/nightweixd/idp2025)** | Python prototypes for people counting, face recognition, and stain detection, with a desktop launcher and webhook integration. | Python · OpenCV · YOLO · InsightFace · Tkinter |
+**[Computer vision project](https://github.com/nightweixd/idp2025)**  
+Python experiments with people counting, face recognition, and stain detection. Includes a desktop launcher for running the scripts.  
+<sub>Python · OpenCV · YOLO · InsightFace</sub>
 
-### Tools in my projects
+### Technologies I use
 
-**Web development** &nbsp; TypeScript, React, Next.js, Tailwind CSS  
-**Data & integration** &nbsp; PostgreSQL, Supabase, HTTP APIs, webhooks  
-**Computer vision** &nbsp; Python, OpenCV, NumPy, YOLO, InsightFace
-
----
-
-<p align="center">
-  <sub>Explore the repositories above for source code and project details.</sub>
-</p>
+TypeScript, React, Next.js, Tailwind CSS, PostgreSQL, Python, OpenCV.
