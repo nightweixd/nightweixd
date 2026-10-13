@@ -1,20 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
-  <title id="title">nightweixd — Web applications and computer vision</title>
-  <desc id="desc">A navy portfolio banner with mint accents, geometric lines, and a code-inspired monogram.</desc>
-  <defs>
-    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101d32"/><stop offset="1" stop-color="#07111f"/></linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#25374b" stroke-width="1" opacity=".4"/></pattern>
-  </defs>
-  <rect width="1280" height="360" rx="20" fill="url(#bg)"/>
-  <rect width="1280" height="360" rx="20" fill="url(#grid)"/>
-  <path d="M0 359H1280" stroke="#69e3bf" stroke-width="4"/>
-  <circle cx="1100" cy="180" r="128" fill="none" stroke="#69e3bf" opacity=".12"/>
-  <circle cx="1100" cy="180" r="99" fill="none" stroke="#69e3bf" opacity=".22"/>
-  <rect x="1026" y="106" width="148" height="148" rx="32" fill="#122b35" stroke="#69e3bf" stroke-opacity=".5"/>
-  <text x="1100" y="199" fill="#69e3bf" font-family="Consolas, monospace" font-size="53" text-anchor="middle">&lt;/&gt;</text>
-  <rect x="64" y="66" width="32" height="4" rx="2" fill="#69e3bf"/>
-  <text x="109" y="74" fill="#9bb3c8" font-family="Segoe UI, Arial, sans-serif" font-size="14" letter-spacing="3">PROJECT PORTFOLIO</text>
-  <text x="64" y="165" fill="#f3f7fc" font-family="Segoe UI, Arial, sans-serif" font-size="65" font-weight="700" letter-spacing="-2">nightweixd</text>
-  <text x="67" y="213" fill="#c6d3e1" font-family="Segoe UI, Arial, sans-serif" font-size="24">Web applications. Computer vision. Practical tools.</text>
-  <text x="67" y="290" fill="#69e3bf" font-family="Consolas, monospace" font-size="16">TYPESCRIPT / REACT / PYTHON</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="240" viewBox="0 0 1280 240" role="img" aria-labelledby="title desc">
+  <title id="title">JW — Web development and computer vision</title>
+  <desc id="desc">A simple navy banner with the name JW and a thin mint accent.</desc>
+  <rect width="1280" height="240" rx="12" fill="#111c2b"/>
+  <rect x="54" y="56" width="4" height="128" rx="2" fill="#85c9b6"/>
+  <text x="86" y="137" fill="#f4f6fa" font-family="Segoe UI, Arial, sans-serif" font-size="76" font-weight="600" letter-spacing="-3">JW</text>
+  <text x="89" y="174" fill="#adb9c9" font-family="Segoe UI, Arial, sans-serif" font-size="22">Web development &amp; computer vision</text>
 </svg>
